@@ -5,6 +5,7 @@ import requests
 auth_token_url = "https://api.codechef.com/oauth/token"
 oauth_url = "https://api.codechef.com/oauth/authorize"
 
+
 def makeRequest(type, url, body={}):
 
     CLIENT_ID = config('CLIENT_ID')
@@ -19,7 +20,7 @@ def makeRequest(type, url, body={}):
     }
 
     # Add logic to store ACCESS TOKEN in a secure manner. - Client Grant
-    
+
     res = requests.post(auth_token_url, data)
     json_data = json.loads(res.text)
     ACCESS_TOKEN = json_data.get('result').get('data').get('access_token')
