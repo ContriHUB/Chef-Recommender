@@ -1,2 +1,2 @@
-# chef-cli
-Codechef on command line with much more features
+# chef-recommender
+A simple problem recommender for codechef.
