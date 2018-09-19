@@ -1,0 +1,666 @@
+code,tags,author,solved,attempted,partiallySolved
+CHN02,"['acm15chn', 'computational', 'geometry', 'admin2']",admin2,34,104,0
+CHN03,"['acm15chn', 'dynamic-programming', 'admin2']",admin2,131,714,0
+CHN04,"['acm15chn', 'dynamic-programming', 'sqrt-decomp', 'admin2']",admin2,13,379,0
+CHN05,"['acm15chn', 'greedy-algo', 'admin2']",admin2,1867,5324,0
+CHN08,"['acm15chn', 'modulo', 'recurrence', 'admin2']",admin2,1533,9576,0
+CHN07,"['acm15chn', 'game-theory', 'admin2']",admin2,56,270,0
+CHN06,"['acm15chn', 'graph-traversal', 'perfect-match', 'admin2']",admin2,20,48,0
+CHN09,"['acm15chn', 'loops', 'strings', 'admin2']",admin2,5088,10085,0
+CHN10,"['acm15chn', 'combinatorics', 'graph', 'admin2']",admin2,19,51,0
+CHN11,"['acm15chn', 'combinatorics', 'sorting', 'admin2']",admin2,19,234,0
+KOL1510,"['acm15kol', 'backtracking', 'shortest', 'supersequence', 'admin2']",admin2,139,405,0
+KOL1508,"['acm15kol', 'combinatorics', 'sperners', 'theorem', 'piyushkumar']",piyushkumar,39,187,0
+KOL1506,"['acm15kol', 'binomial', 'dynamic-programming', 'balajiganapath']",balajiganapath,159,3420,0
+KOL1507,"['acm15kol', 'decomposition', 'heavy-light', 'range-queries', 'spanningtree', 'devuy11']",devuy11,63,329,0
+KOL1509,"['acm15kol', 'convex-hull', 'devuy11']",devuy11,247,1663,0
+KOL1505,"['acm15kol', 'processing', 'string', 'admin2']",admin2,413,843,0
+KOL1501,"['acm15kol', 'dynamic-programming', 'long', 'multiplication', 'devuy11']",devuy11,24,117,0
+KOL1503,"['acm15kol', 'ancestors', 'balanced', 'common', 'lowest', 'parentheses', 'devuy11']",devuy11,55,262,0
+KOL1502,"['acm15kol', 'dynamic-programming', 'devuy11']",devuy11,265,1383,0
+KOL1504,"['acm15kol', 'sorting', 'devuy11']",devuy11,402,1852,0
+KOL16E,"['acm16kol', 'medium', 'modular-arith', 'number-theory', 'kol_adm']",kol_adm,121,518,0
+KOL16G,"['acm16kol', 'geometry', 'hard', 'integrals', 'kol_adm']",kol_adm,23,38,0
+KOL16D,"['acm16kol', 'hard', 'kol_adm']",kol_adm,19,75,0
+KOL16L,"['acm16kol', 'dynamic-programming', 'medium', 'admin2']",admin2,36,72,0
+KOL16J,"['acm16kol', 'cakewalk', 'sorting', 'admin3']",admin3,2386,7505,0
+KOL16I,"['acm16kol', 'graph', 'hard', 'kevinsogo']",kevinsogo,21,77,0
+KOL16H,"['acm16kol', 'binary', 'easy', 'kol_adm']",kol_adm,488,1437,0
+KOL16F,"['acm16kol', 'easy', 'string', 'kol_adm']",kol_adm,286,2621,0
+KOL16C,"['acm16kol', 'binary-search', 'hard', 'kol_adm']",kol_adm,62,302,0
+KOL16B,"['acm16kol', 'bitwise', 'cakewalk', 'kol_adm']",kol_adm,2201,6720,0
+BLREDSET,"['acm17chn', 'chn17rol', 'dynamic-programming', 'medium', 'tree-dp', 'admin2']",admin2,53,215,0
+DEFOREST,"['acm17chn', 'chn17rol', 'data-structure', 'med-hard', 'usaxena95']",usaxena95,41,234,0
+AREAFIGR,"['acm17chn', 'chn17rol', 'geometry', 'medium', 'monte-carlo', 'admin2']",admin2,90,267,0
+ELHIDARR,"['acm17chn', 'binary-search', 'chn17rol', 'easy-medium', 'admin2']",admin2,182,1226,0
+MANCBST,"['acm17chn', 'chn17rol', 'fft', 'med-hard', 'satyaki3794']",satyaki3794,29,73,0
+MRO,"['acm17chn', 'chn17rol', 'dynamic-programming', 'easy', 'wittyceaser']",wittyceaser,246,419,0
+VRTXCOVR,"['2-sat', 'acm17chn', 'chn17rol', 'graphs', 'medium', 'triveni']",triveni,66,299,0
+GOODBAD,"['acm17chn', 'cakewalk', 'chn17rol', 'admin2']",admin2,2115,5232,0
+MINSTR,"['acm17chn', 'chn17rol', 'simple', 'admin2']",admin2,414,1072,0
+OBEXPVAL,"['acm17chn', 'chn17rol', 'simple', 'admin2']",admin2,294,1063,0
+GENPERM,"['acm17kgp', 'constructive', 'easy-medium', 'kgp17rol', 'architk']",architk,154,792,0
+DISCAREA,"['acm17kgp', 'convex-hull-trick', 'geometry', 'hard', 'kgp17rol', 'monte-carlo', 'triveni']",triveni,8,28,0
+NONOVSEG,"['acm17kgp', 'dynamic-programming', 'kgp17rol', 'medium', 'admin2']",admin2,38,147,0
+STRLBP,"['acm17kgp', 'cakewalk', 'kgp17rol', 'admin2']",admin2,2007,4271,0
+SPAMCLAS,"['acm17kgp', 'easy', 'kgp17rol', 'admin2']",admin2,1075,6275,0
+XORQUERY,"['acm17kgp', 'dsu', 'kgp17rol', 'med-hard', 'tree', 'xor', 'usaxena95']",usaxena95,42,117,0
+SCIENCEF,"['acm17kgp', 'bitmask', 'dynamic-programming', 'hard', 'kgp17rol', 'tsp', 'usaxena95']",usaxena95,22,59,0
+SPANTREE,"['acm17kgp', 'constructive', 'graph', 'interactive', 'kgp17rol', 'mst', 'sidhant007']",sidhant007,59,189,0
+SADQ,"['acm17kgp', 'ad-hoc', 'heavy-light', 'kgp17rol', 'medium', 'architk']",architk,129,1002,0
+TAXITURN,"['acm17kgp', 'easy', 'geometry', 'kgp17rol', 'admin2']",admin2,85,918,0
+ATKCTR,"['acmamr12', 'admin']",admin,284,773,0
+BALL,"['acmamr12', 'admin']",admin,51,127,0
+DQPERMS,"['acmamr12', 'combinatorics', 'hard', 'admin']",admin,11,42,0
+FSSYNC,"['acmamr12', 'admin']",admin,104,411,0
+MINMAX,"['acmamr12', 'medium', 'probability', 'admin']",admin,36,104,0
+RNEST,"['acmamr12', 'admin']",admin,45,267,0
+CBLOCKS,"['acmamr12', 'admin']",admin,313,1098,0
+FINDHOLE,"['acmamr12', 'admin']",admin,50,109,0
+LIGHTS,"['acmamr12', 'admin']",admin,663,2298,0
+MSTRINGS,"['acmamr12', 'admin']",admin,1250,2044,0
+LUCKY8,"['ad-hoc', 'easy', 'june12', 'witaliy_adm']",witaliy_adm,434,4735,0
+LEBOMBS,"['ad-hoc', 'aug12', 'cakewalk', 'witaliy_adm']",witaliy_adm,7619,23433,0
+DRANGE,"['ad-hoc', 'aug12', 'difference-seq', 'vamsi_adm']",vamsi_adm,1443,16382,0
+YNOUTPUT,"['ad-hoc', 'cook25', 'shilp_adm']",shilp_adm,453,1872,0
+BUYING2,"['ad-hoc', 'cook27', 'gennady_adm']",gennady_adm,9841,21702,0
+CONFLIP,"['ad-hoc', 'cakewalk', 'nov12', 'simple-math', 'khad_adm']",khad_adm,15999,34089,0
+LEPERMUT,"['ad-hoc', 'cakewalk', 'cook28', 'witaliy_adm']",witaliy_adm,7953,12480,0
+DIRECTI,"['ad-hoc', 'cakewalk', 'cook29', 'david_adm']",david_adm,2624,5087,0
+SALARY,"['ad-hoc', 'cakewalk', 'jan13', 'ivanz_adm']",ivanz_adm,7880,20155,0
+BUY1GET1,"['ad-hoc', 'cakewalk', 'feb13', 'khad_adm']",khad_adm,10531,26614,0
+SSPLD,"['april18', 'dp-bitmask', 'fft', 'fwt', 'hard', 'palindrome', 'chemthan']",chemthan,194,325,0
+AVGPR,"['april18', 'array', 'looping', 'math', 'anuj_2106']",anuj_2106,18803,40966,0
+CHEFPAR,"['april18', 'challenge', 'factorization', 'mgch', 'random', 'simulation', 'mgch']",mgch,12729,17029,0
+JADUGAR,"['april18', 'generating_functions', 'hard', 'math', 'usaxena95']",usaxena95,1870,3055,0
+VAIMIN,"['april18', 'combinatorics', 'dynamic-programming', 'generalized-catalan', 'medium-hard', 'vaibhav18197']",vaibhav18197,1042,5672,0
+HIGHWAYC,"['april18', 'easy', 'epsilon', 'geometry', 'math', 'vidyut_1']",vidyut_1,17184,27562,0
+CHEFAT,"['april18', 'lazypropagation', 'medium-hard', 'segtree', 'taylor-series', 'bciobanu']",bciobanu,1599,2435,0
+CUTPLANT,"['april18', 'data-structure', 'deque', 'medium', 'segment-tree', 'sqrt-decomp', 'step_by_step']",step_by_step,9008,16713,0
+CHEFWORK,"['april18', 'array', 'cakewalk', 'looping', 'minimum_element', 'adlet_zeineken']",adlet_zeineken,14425,28343,0
+WGHTNUM,"['april18', 'easy', 'fast-expo', 'vkrules1104']",vkrules1104,7022,36792,0
+LECANDY,"['array', 'cakewalk', 'june12', 'witaliy_adm']",witaliy_adm,16565,34118,0
+ACM14KN3,"['acmkan14', 'array', 'simple', 'admin']",admin,997,2321,0
+TLG,"['array', 'easy', 'admin']",admin,25353,123435,0
+RIT02,"['array', 'findthestudents', 'maths', 'medium', 'dvlpr_expert']",dvlpr_expert,121,1110,0
+CHKDST,"['array', 'flfi2016', 'implementation', 'medium', 'medium-hard', 'vibhor3gupta']",vibhor3gupta,9,56,0
+CHKAR,"['array', 'flfi2016', 'hard', 'stock-span', 'vibhor3gupta']",vibhor3gupta,3,58,0
+CHKTRE,"['array', 'dfs', 'dynamic-programming', 'easy-medium', 'flfi2016', 'tree', 'vibhor3gupta']",vibhor3gupta,42,106,0
+KTTABLE,"['array', 'cakewalk', 'loop', 'snckql16', 'sergey_adm']",sergey_adm,16424,30447,0
+CDIT01,"['array', 'cdit2016', 'cyclothon', 'easy-medium', 'akshatjain2209']",akshatjain2209,138,403,0
+CDIT03,"['array', 'cdit2016', 'easy-medium', 'akshatjain2209']",akshatjain2209,13,106,0
+CHEFLR,"['ad-hoc', 'basic-math', 'sept14', 'simple', 'berezin']",berezin,5757,23458,0
+CHEFGR,"['basic-math', 'cakewalk', 'oct14', 'berezin']",berezin,9819,32598,0
+PRLADDU,"['basic-math', 'easy', 'dpraveen']",dpraveen,5594,22979,0
+FCTRL,"['basic-math', 'easy', 'number-theory', 'u_admin_codechef_pw']",u_admin_codechef_pw,48939,143187,0
+CHEFSTON,"['basic-math', 'cakewalk', 'jan15', 'berezin']",berezin,19267,30083,0
+CHEFRP,"['basic-math', 'cakewalk', 'may15', 'abhra73']",abhra73,6923,18032,0
+SETDIFF,"['basic-math', 'easy', 'may15', 'amitpandeykgp']",amitpandeykgp,6254,22422,0
+CHAPD,"['basic-math', 'easy', 'gcd', 'may15', 'vitalij_adm']",vitalij_adm,8746,26714,0
+DEVSTR,"['admin', 'basic-math', 'easy', 'may15', 'admin2']",admin2,3533,15030,0
+ADTRI,"['basic-math', 'easy', 'oct15', 'prime', 'abhra73']",abhra73,18201,40312,0
+CNOTE,"['basic-prog', 'cakewalk', 'march15', 'ma5termind']",ma5termind,13791,30018,0
+ANKPAREN,"['basic-prog', 'cook59', 'easy-medium', 'pattern', 'stack', 'code_master01']",code_master01,622,3148,0
+UTMOPR,"['basic-prog', 'cakewalk', 'cook59', 'simulation', 'code_note']",code_note,4279,9834,0
+TWOSTR,"['basic-prog', 'cakewalk', 'cook61', 'implementation', 'strings', 'imran_adm']",imran_adm,9322,19100,0
+FRGTNLNG,"['basic-prog', 'cakewalk', 'cook62', 'strings', 'kostya_by']",kostya_by,6306,11672,0
+EGRANDR,"['basic-prog', 'cakewalk', 'july16', 'egor_bobyk']",egor_bobyk,21641,38482,0
+CHSQR,"['basic-prog', 'nov16', 'simple', 'fiter']",fiter,4343,7766,0
+ALEXTASK,"['basic-prog', 'lcm', 'nov16', 'simple', 'rubanalexey']",rubanalexey,17538,33328,0
+SUPVIL,"['basic-prog', 'cakewalk', 'ltime43', 'pkacprzak']",pkacprzak,1183,4404,0
+GGSQR,"['basic-prog', 'cakewalk', 'surajumang08']",surajumang08,399,928,0
+MINWDSUM,"['bfs', 'cook31', 'medium', 'anton_adm']",anton_adm,71,216,0
+MINESWPR,"['ad-hoc', 'bfs', 'challenge', 'interactive', 'march13', 'david_adm']",david_adm,10182,17430,0
+DIGJUMP,"['bfs', 'dijkstra', 'easy', 'june14', 'berezin']",berezin,3671,28718,0
+LUCKG,"['ad-hoc', 'bfs', 'july14', 'medium', 'vitalij_adm']",vitalij_adm,558,5465,0
+IRONISL,"['bfs', 'bitmasking', 'graph', 'ltime15', 'medium', 'kostya_by']",kostya_by,415,624,0
+ANUTDP,"['bfs', 'binary-search', 'cook51', 'dfs', 'easy-medium', 'sorting', 'anudeep2011']",anudeep2011,168,1045,0
+PETERSEN,"['bfs', 'cook52', 'graphs', 'simple', 'traversal', 'kostya_by']",kostya_by,964,2724,0
+LSTGRPH,"['bfs', 'bipartite', 'cook52', 'easy-medium', 'graphs', 'kostya_by']",kostya_by,214,837,0
+WSCAGAIN,"['bfs', 'easy', 'ltime18', 'sergey_adm']",sergey_adm,143,246,0
+KGP14C,"['bfs', 'graph', 'kgp14ros', 'medium', 'admin3']",admin3,352,920,0
+CIELBALL,"['binary-search', 'cook24', 'dynamic-programming', 'hard', 'hiroto_adm']",hiroto_adm,25,68,0
+LIGHT,"['binary-search', 'geometry', 'line-sweep', 'sep12', 'jingbo_adm']",jingbo_adm,403,1955,0
+PARADE,"['binary-search', 'floyd-warshall', 'min-cost-flow', 'sep12', 'chen_adm']",chen_adm,132,728,0
+LELUCKYN,"['binary-search', 'cook28', 'maths', 'medium-hard', 'witaliy_adm']",witaliy_adm,54,754,0
+CHEFHCK2,"['binary-search', 'cook31', 'easy', 'anton_adm']",anton_adm,101,442,0
+TABUS,"['binary-search', 'cook32', 'dynamic-programming', 'easy-medium', 'graph', 'tuan_adm']",tuan_adm,224,2414,0
+CHITHH,"['binary-search', 'ltime04', 'medium', 'preprocessing', 'furko_adm']",furko_adm,314,722,0
+AMIFIB,"['binary-search', 'cook40', 'easy', 'fibonacci', 'hashing', 'offline', 'vineet_adm']",vineet_adm,1746,8532,0
+LOWSUM,"['binary-search', 'cook40', 'easy', 'priority', 'sorting', 'vineet_adm']",vineet_adm,403,3520,0
+FRBSUM,"['binary-search', 'jan14', 'medium', 'persistence', 'segment-tree', 'kostya_by']",kostya_by,502,2703,0
+MARTARTS,"['bipartite', 'hard', 'matching', 'nov12', 'tomaz_adm']",tomaz_adm,140,1106,0
+LONGART,"['bipartite', 'graph', 'hard', 'march13', 'maximum-flow', 'istva_adm']",istva_adm,84,975,0
+KMHAMHA,"['bipartite', 'easy-medium', 'matching', 'oct13', 'kaush_adm']",kaush_adm,910,9850,0
+CAKE2AM,"['bipartite', 'cook42', 'geometry', 'max-indep-set', 'maxflow', 'medium-hard', 'satej_adm']",satej_adm,29,126,0
+DIVIDE,"['binary', 'bipartite', 'easy', 'graph', 'ltime18', 'sergey_adm']",sergey_adm,148,545,0
+KGP14F,"['bipartite', 'graph', 'kgp14ros', 'medium', 'admin3']",admin3,85,221,0
+ANDMAT,"['bipartite', 'bitwise', 'operator', 'snck15fl', 'utkarsh_lath']",utkarsh_lath,120,364,0
+AGRAPH,"['bipartite', 'graph', 'ipc151a', 'ipcquestion', 'skullcrackers']",skullcrackers,169,460,0
+CHFNFRN,"['bipartite', 'easy', 'sept16', 'antoniuk1']",antoniuk1,8046,33278,0
+DOWNLOAD,"['bit', 'cook23', 'medium', 'sorting', 'anil_adm']",anil_adm,179,8220,0
+SPREAD,"['april11', 'bit', 'easy', 'anhdq_adm']",anhdq_adm,1338,9037,0
+AMSEQT,"['bit', 'cook34', 'dynamic-programming', 'easy', 'satej_adm']",satej_adm,91,253,0
+SEABAL,"['aug13', 'bit', 'fenwick', 'medium', 'segment-tree', 'sereja_adm']",sereja_adm,655,3803,0
+RRTREE,"['bit', 'cook38', 'hard', 'heavy-light', 'segtree', 'tree', 'roman_adm']",roman_adm,177,465,0
+PPLUCKY,"['bit', 'cook39', 'fenwick', 'medium', 'segment-tree', 'witaliy_adm']",witaliy_adm,183,1916,0
+SUBARR,"['bit', 'easy', 'fenwick', 'ltime07', 'prefix-sum', 'segment-tree', 'kostya_by']",kostya_by,1177,2021,0
+LPAIR,"['bit', 'cook43', 'easy-medium', 'shiplu_adm']",shiplu_adm,986,3282,0
+FBCHEF,"['april14', 'bit', 'medium-hard', 'segment-tree', 'surya_adm']",surya_adm,154,1066,0
+FUNAGP,"['bit', 'hard', 'may14', 'segment-tree', 'devuy11']",devuy11,145,2352,0
+FAULT,"['april13', 'bitwise', 'challenge', 'gauss-elim', 'david_adm']",david_adm,6175,9797,0
+PPXOR,"['bitwise', 'cook39', 'easy-medium', 'xor', 'witaliy_adm']",witaliy_adm,571,2220,0
+PPTREE,"['bitwise', 'cook39', 'dynamic-programming', 'medium-hard', 'trie', 'xor', 'witaliy_adm']",witaliy_adm,249,805,0
+REBXOR,"['bitwise', 'sept15', 'trie', 'xor', 'rebryk']",rebryk,9127,18919,0
+ASYA1,"['bitwise', 'easy', 'implementation', 'ipc15p3b', 'pakhandi']",pakhandi,55,97,0
+SEQUAT2,"['bitwise', 'cook76', 'medium-hard', 'sieve', 'istva_adm']",istva_adm,32,472,0
+CHEFARRB,"['bitwise', 'cook77', 'easy', 'linear-search', 'mgch']",mgch,470,2348,0
+ASYA2,"['bitwise', 'pakhandi']",pakhandi,654,2905,0
+LIKECS03,"['bitwise', 'cook86', 'easy-medium', 'greedy', 'likecs', 'likecs']",likecs,969,2618,0
+SIMNIM,"['bruteforce', 'challenge', 'gauss-elim', 'sep12', 'gennady_adm']",gennady_adm,2868,5301,0
+REARRAN,"['bruteforce', 'cook27', 'meet-in-middle', 'simple-math', 'gennady_adm']",gennady_adm,25,295,0
+DDISH,"['bruteforce', 'nov12', 'simple', 'simple-math', 'roman_adm']",roman_adm,773,6064,0
+CHALENGE,"['ad-hoc', 'bruteforce', 'challenge', 'interactive', 'may13', 'david_adm']",david_adm,23514,28529,0
+NEXTNUM,"['bruteforce', 'cakewalk', 'cook40', 'enumeration', 'factorial', 'vineet_adm']",vineet_adm,528,2111,0
+SHOOTING,"['bruteforce', 'cook49', 'greedy', 'simple', 'witaliy_adm']",witaliy_adm,325,9049,0
+GRIDCONN,"['biginteger', 'bruteforce', 'handling', 'ltime18', 'simple', 'sergey_adm']",sergey_adm,70,163,0
+PCHIPS,"['bruteforce', 'cakewalk', 'ipc151a', 'skullcrackers']",skullcrackers,508,1111,0
+CHEFSETC,"['bitmasks', 'bruteforce', 'cakewalk', 'cook77', 'mgch']",mgch,1745,3702,0
+DISTINCT,"['bruteforce', 'cakewalk', 'chandubaba']",chandubaba,218,408,0
+TWTCLOSE,"['array-string', 'cakewalk', 'cook23', 'anil_adm']",anil_adm,8862,19826,0
+SAD,"['cakewalk', 'july12', 'search', 'nam_adm']",nam_adm,3054,8341,0
+CIELRCPT,"['cakewalk', 'cook24', 'greedy', 'hiroto_adm']",hiroto_adm,19451,33119,0
+CARVANS,"['cakewalk', 'cook26', 'simple-math', 'nikhil_adm']",nikhil_adm,14529,33375,0
+DRGNBOOL,"['cakewalk', 'oct12', 'kaush_adm']",kaush_adm,4031,8946,0
+GRANAMA,"['cakewalk', 'dec12', 'simple-math', 'vamsi_adm']",vamsi_adm,3449,11888,0
+CLOSEST,"['challenge', 'geometry', 'june12', 'kd-tree', 'shilp_adm']",shilp_adm,4709,11940,0
+ADDCHAIN,"['challenge', 'july12', 'anton_adm']",anton_adm,1835,3955,0
+CHECKERS,"['aug12', 'challenge', 'graph', 'david_adm']",david_adm,635,1108,0
+MAXRECT,"['challenge', 'oct12', 'nikhil_adm']",nikhil_adm,14563,23086,0
+CKROACH,"['challenge', 'may12', 'hiroto_adm']",hiroto_adm,9733,12026,0
+TOMJERRY,"['challenge', 'march12', 'shilp_adm']",shilp_adm,1540,2822,0
+SIMGRAPH,"['april12', 'challenge', 'david_adm']",david_adm,5373,6923,0
+MANYLEFT,"['challenge', 'nov12', 'optimization', 'search', 'david_adm']",david_adm,5001,6872,0
+AMBIDEX,"['challenge', 'jan12', 'david_adm']",david_adm,1612,2390,0
+MAXGAME,"['aug12', 'combinatorics', 'recurrence', 'khad_adm']",khad_adm,102,924,0
+CNTWAYS,"['combinatorics', 'dec12', 'easy-medium', 'ivanz_adm']",ivanz_adm,938,5473,0
+THREEDIF,"['combinatorics', 'jan13', 'modulo', 'simple', 'anton_adm']",anton_adm,4005,13733,0
+CLMBSTRS,"['combinatorics', 'feb13', 'simple', 'bruno_adm']",bruno_adm,4069,15230,0
+AMROOK,"['combinatorics', 'cook34', 'medium', 'satej_adm']",satej_adm,36,105,0
+SPMATRIX,"['combinatorics', 'hard', 'june13', 'anton_adm']",anton_adm,197,1337,0
+COLLECT,"['combinatorics', 'june13', 'medium', 'sergey_adm']",sergey_adm,999,5245,0
+GRIDCOL,"['combinatorics', 'cook37', 'hard', 'inclusn-exclusn', 'imran_adm']",imran_adm,34,297,0
+SPOONS,"['combinatorics', 'easy-medium', 'sept13', 'vivek_adm']",vivek_adm,1994,8795,0
+AMR15C,"['acmamr15', 'constructive', 'greedy', 'implementation', 'medium', 'suh_ash2008']",suh_ash2008,316,3105,0
+PUPPYPLM,"['constructive', 'cook67', 'hashing', 'palindromes', 'pavel1996']",pavel1996,99,287,0
+ALICE,"['constructive', 'cook73', 'easy-medium', 'gcd', 'alei']",alei,54,331,0
+LISDIGIT,"['cakewalk', 'constructive', 'cook78', 'lis', 'alex_2oo8']",alex_2oo8,2989,5204,0
+CAPTAIN,"['cakewalk', 'constructive', 'greedy', 'sorting', 'varuns_2729']",varuns_2729,48,153,0
+CENTREE,"['ad-hoc', 'constructive', 'cook83', 'graph', 'tree', 'alei']",alei,383,1456,0
+SNACKUP,"['ad-hoc', 'constructive', 'cook83', 'easy', 'alei']",alei,1662,3045,0
+WEICOM,"['constructive', 'ltime53', 'medium-hard', 'chemthan']",chemthan,344,1119,0
+JUMP,"['convex-hull', 'dynamic-programming', 'hard', 'oct15', 'kingofnumbers']",kingofnumbers,3290,5732,0
+CYCLRACE,"['convex-hull', 'jan16', 'med', 'cenadar']",cenadar,2923,5992,0
+KTHCON,"['convex-hull', 'cook68', 'geometry', 'medium', 'two-pointers', 'xellos0']",xellos0,121,594,0
+CF224,"['codefight', 'cofi1601', 'convex-hull', 'medium', 'karan_arora2']",karan_arora2,111,243,0
+CLDSIN,"['cole2016', 'convex-hull', 'dynamic-programming', 'medium-hard', 'nib_ir']",nib_ir,32,236,0
+GEOCHEAT,"['convex', 'convex-hull', 'geometry', 'hard', 'oct16', 'random', 'errichto']",errichto,2343,4554,0
+COTH003,"['convex-hull', 'coth2017', 'hard', 'shubham_003']",shubham_003,11,17,0
+KILLER,"['convex-hull', 'hld', 'may17', 'tree-dp', 'tanuj_khattar']",tanuj_khattar,901,1826,0
+TSUM2,"['centroid-decomp', 'convex-hull', 'geometry', 'hard', 'lines', 'ltime60', 'ratingoverflow']",ratingoverflow,80,203,0
+CHEFTOWN,"['data-structure', 'deque', 'sep12', 'roman_adm']",roman_adm,1308,9053,0
+MBOARD,"['data-structure', 'feb13', 'medium', 'jingbo_adm']",jingbo_adm,658,6387,0
+MLCHEF,"['data-structure', 'medium', 'segment-trees', 'sept13', 'surya_adm']",surya_adm,529,4398,0
+QPOINT,"['data-structure', 'geometry', 'hard', 'interactive', 'nov13', 'tuan_adm']",tuan_adm,81,1314,0
+GERALD2,"['data-structure', 'hard', 'heavy-light', 'nov13', 'gerald']",gerald,107,1043,0
+ANUDTQ,"['data-structure', 'hard', 'may14', 'tree', 'anudeep2011']",anudeep2011,181,1609,0
+FNCS,"['data-structure', 'fenwick', 'medium-hard', 'nov14', 'segment-tree', 'sqrt-decomp', 'devuy11']",devuy11,6928,13679,0
+XRQRS,"['data-structure', 'jan15', 'medium-hard', 'trie', 'gomelfk']",gomelfk,4142,11729,0
+ANUAHR,"['cook54', 'data-structure', 'medium', 'anudeep2011']",anudeep2011,165,934,0
+SUBARRAY,"['cook55', 'data-structure', 'dynamic-programming', 'medium', 'devuy11']",devuy11,365,1940,0
+CHEFHACK,"['dfs', 'easy', 'jan13', 'sieve', 'khad_adm']",khad_adm,2131,12319,0
+FIRESC,"['dfs', 'march13', 'simple', 'union-find', 'vamsi_adm']",vamsi_adm,4612,18292,0
+KINGCON,"['april13', 'dfs', 'easy', 'graph', 'jay_adm']",jay_adm,2162,10461,0
+TYTACTIC,"['cook35', 'dfs', 'simple', 'prad_adm']",prad_adm,902,4890,0
+GRTRIP,"['dfs', 'graphs', 'ltime01', 'medium', 'roman_adm']",roman_adm,100,369,0
+PRIMEDST,"['aug13', 'dfs', 'fft', 'graph', 'hard', 'chen_adm']",chen_adm,1028,4862,0
+KTHPATH,"['acmkgp13', 'dfs', 'graph', 'medium', 'tree', 'sergey_adm']",sergey_adm,170,827,0
+TROOT,"['dfs', 'easy-medium', 'ltime12', 'segment-tree', 'sergey_adm']",sergey_adm,58,194,0
+RRTREE2,"['cook48', 'dfs', 'knapsack', 'medium-hard', 'roman_adm']",roman_adm,91,363,0
+UPDTREE,"['cook50', 'dfs', 'dynamic-programming', 'lca', 'medium-hard', 'darkshadows']",darkshadows,133,420,0
+RIVPILE,"['dijkstra', 'july13', 'medium', 'shortest-path', 'hiroto_adm']",hiroto_adm,282,2044,0
+KAN13B,"['binaryheap', 'dijkstra', 'kan13acm', 'medium', 'jingbo_adm']",jingbo_adm,69,327,0
+SPSHORT,"['cook55', 'dijkstra', 'graph', 'medium-hard', 'paths-in-graph', 'shortest-path', 'devuy11']",devuy11,87,367,0
+SCHEME01,"['dijkstra', 'bhawnamait']",bhawnamait,76,404,0
+INSQ15_F,"['dijkstra', 'fcar', 'insq2015', 'amanmittal']",amanmittal,106,602,0
+AMR14B,"['amr14ros', 'dijkstra', 'easy-medium', 'prim', 'murdocc007']",murdocc007,214,1407,0
+EFFDELIV,"['challenge', 'dijkstra', 'knapsack', 'oct15', 'sergey_adm']",sergey_adm,952,1501,0
+CDVA1608,"['cdva16', 'dijkstra', 'matching', 'maxflow', 'medium-hard', 'adi28galaxyak']",adi28galaxyak,278,389,0
+PAIRCLST,"['dijkstra', 'floyd-warshall', 'ltime34', 'medium', 'sergey_adm']",sergey_adm,1097,1693,0
+TASTYD,"['divide-and-conq', 'ltime01', 'medium', 'roman_adm']",roman_adm,429,1239,0
+COVERING,"['cook52', 'divide-and-conq', 'inclusn-exclusn', 'medium-hard', 'sets', 'kostya_by']",kostya_by,83,166,0
+ACM14KP1,"['acmkgp14', 'divide-and-conq', 'easy-medium', 'admin']",admin,218,1374,0
+MRGSRT,"['divide-and-conq', 'preetam']",preetam,131,239,0
+STETSKLX,"['aug15', 'binary-search', 'divide-and-conq', 'medium-hard', 'minimum-query', 'sliding-range', 'unrooted-trees', 'antoniuk1']",antoniuk1,1660,4077,0
+AMMAM,"['acm15amr', 'divide-and-conq', 'two-pointers', 'akash4983']",akash4983,5,45,0
+COUNTWAY,"['combinatorics', 'cook75', 'divide-and-conq', 'fft', 'medium-hard', 'darkshadows']",darkshadows,160,1058,0
+RESTPERM,"['divide-and-conq', 'ltime41', 'recursion', 'sergey_adm']",sergey_adm,295,1154,0
+KIRMEME,"['divide-and-conq', 'medium-hard', 'nov16', 'tree', 'maestr0']",maestr0,1002,2209,0
+SUMDIS,"['divide-and-conq', 'geometry', 'graph', 'hard', 'march17', 'r_64']",r_64,2011,4564,0
+PARPOLY,"['binomial', 'dynamic-programming', 'june12', 'medium', 'hiroto_adm']",hiroto_adm,273,2103,0
+FAVNUM,"['aho-corasick', 'dynamic-programming', 'july12', 'medium', 'sergey_adm']",sergey_adm,190,999,0
+LUKYDRIV,"['aug12', 'dynamic-programming', 'number-theory', 'kaush_adm']",kaush_adm,873,7712,0
+KNGHTMOV,"['dynamic-programming', 'gauss-elim', 'number-theory', 'sep12', 'anhdq_adm']",anhdq_adm,141,2241,0
+DIAMOND,"['dynamic-programming', 'easy', 'oct12', 'kaush_adm']",kaush_adm,987,5363,0
+CIELHACK,"['dynamic-programming', 'hard', 'oct12', 'hiroto_adm']",hiroto_adm,55,470,0
+TOURNAM,"['cook27', 'dynamic-programming', 'probability', 'gennady_adm']",gennady_adm,357,1130,0
+CANDYGAM,"['dynamic-programming', 'easy', 'nov12', 'vamsi_adm']",vamsi_adm,420,2983,0
+LEMAGIC,"['cook28', 'dynamic-programming', 'easy', 'witaliy_adm']",witaliy_adm,234,795,0
+GROWGOLD,"['cook23', 'easy', 'anil_adm']",anil_adm,222,2736,0
+OLYMPIC,"['cook23', 'easy', 'anil_adm']",anil_adm,41,345,0
+CSUMD,"['easy', 'july12', 'matrix-expo', 'recurrence', 'kaush_adm']",kaush_adm,1523,5897,0
+RRATING,"['easy', 'heaps', 'july12', 'vamsi_adm']",vamsi_adm,1066,6659,0
+CIELMAP,"['cook24', 'easy', 'geometry', 'hiroto_adm']",hiroto_adm,317,1409,0
+COALSCAM,"['cook26', 'easy', 'kruskal', 'nikhil_adm']",nikhil_adm,908,3130,0
+PPERM,"['cook26', 'easy', 'sieve', 'nikhil_adm']",nikhil_adm,1308,4045,0
+LUCKY10,"['easy', 'greedy', 'oct12', 'witaliy_adm']",witaliy_adm,1789,6501,0
+EXGCD,"['cook29', 'easy-medium', 'number-theory', 'david_adm']",david_adm,187,406,0
+TASTR,"['cook32', 'easy-medium', 'lcp', 'string', 'suffix-array', 'tuan_adm']",tuan_adm,388,2594,0
+LEMOUSE,"['dynamic-programming', 'easy-medium', 'june13', 'witaliy_adm']",witaliy_adm,1115,5069,0
+TAACUTE,"['cook36', 'easy-medium', 'geometry', 'sorting', 'tuan_adm']",tuan_adm,90,845,0
+STRDIG,"['ad-hoc', 'cook37', 'easy-medium', 'implementation', 'imran_adm']",imran_adm,51,694,0
+SORTING,"['easy-medium', 'ltime03', 'persistence', 'segment-tree', 'sergey_adm']",sergey_adm,1028,1903,0
+CAOS3,"['dynamic-programming', 'easy-medium', 'oct13', 'sprague-grundy', 'kaush_adm']",kaush_adm,354,2323,0
+THEGAME,"['bfs', 'dfs', 'expected-value', 'medium-hard', 'probability', 'sept15', 'xellos0']",xellos0,759,2202,0
+CHN15B,"['acmchn15', 'easy', 'expectation', 'expected-value', 'graphs', 'tree', 'arjunarul']",arjunarul,615,1629,0
+ASYA3,"['expected-value', 'ipc15p3b', 'medium-hard', 'probability', 'tree', 'pakhandi']",pakhandi,58,128,0
+AMCAS,"['acm15amr', 'combinatorics', 'expected-value', 'geometry', 'akash4983']",akash4983,81,455,0
+CHEFONM,"['cook72', 'expected-value', 'gauss-elim', 'hard', 'permutation', 'probability', 'mgch']",mgch,41,97,0
+GGBHAI,"['bfs', 'easy-medium', 'expected-value', 'tree', 'surajumang08']",surajumang08,117,318,0
+CARDS777,"['cook80', 'expected-value', 'medium', 'lg5293']",lg5293,430,750,0
+CODIE,"['acm17chn', 'chn17rol', 'expected-value', 'matrix-expo', 'med-hard', 'sidhant007']",sidhant007,29,64,0
+COMPEXP,"['acmind17', 'easy-medium', 'expected-value', 'usaxena95']",usaxena95,969,3110,0
+CUTTREE,"['centroid-decomp', 'expected-value', 'fft', 'hard', 'march18', 'probability', 'jtnydv25']",jtnydv25,581,988,0
+NUMPATH,"['cook40', 'dynamic-programming', 'fenwick', 'medium', 'vineet_adm']",vineet_adm,254,1028,0
+LFEB14A,"['fenwick', 'inversions', 'ltime09', 'maths', 'medium', 'sereja_adm']",sereja_adm,161,212,0
+CHEFINV,"['fenwick', 'inversions', 'medium', 'sept14', 'berezin']",berezin,559,6586,0
+QRECT,"['fenwick', 'hard', 'sept14', 'sqrt-decomp', 'xiaodao']",xiaodao,210,2037,0
+ACM14KP2,"['acmkgp14', 'easy-medium', 'fenwick', 'segment-tree', 'sorting', 'admin']",admin,632,3720,0
+ACM14KP4,"['acmkgp14', 'dynamic-programming', 'fenwick', 'medium-hard', 'segment-tree', 'admin']",admin,17,84,0
+COUNTARI,"['fft', 'hard', 'maths', 'nov12', 'imran_adm']",imran_adm,875,5278,0
+FARASA,"['fft', 'hard', 'july13', 'maths', 'sereja_adm']",sereja_adm,467,4098,0
+REALSET,"['dec13', 'fft', 'hard', 'maths', 'KADR']",KADR,159,2133,0
+TASTRMAT,"['fft', 'hard', 'ltime19', 'tuan_adm']",tuan_adm,330,504,0
+DEVLOCK,"['combinatorics', 'dynamic-programming', 'feb15', 'fft', 'math', 'matrix-expo', 'medium-hard', 'admin2']",admin2,1269,2627,0
+RNG,"['fft', 'hard', 'march15', 'chen_adm']",chen_adm,591,2399,0
+MOREFB,"['fft', 'june15', 'medium', 'amitpandeykgp']",amitpandeykgp,2078,4728,0
+ANKNIM2,"['cook59', 'fft', 'game-theory', 'medium-hard', 'code_master01']",code_master01,81,409,0
+EASYEX,"['advanced-math', 'combinatorics', 'fft', 'hard', 'july15', 'maths', 'pavel1996']",pavel1996,582,1380,0
+MAGIC,"['aug12', 'game', 'graph', 'hard', 'gennady_adm']",gennady_adm,53,266,0
+GRIDGAME,"['cook29', 'game', 'medium-hard', 'david_adm']",david_adm,37,168,0
+WPLAY,"['easy', 'feb13', 'game', 'kaush_adm']",kaush_adm,271,1955,0
+CHEFGM,"['easy-medium', 'game', 'nov13', 'div_adm']",div_adm,679,3734,0
+A3,"['explanation', 'game', 'guessing', 'guessinggame', 'u_admin_codechef_pw']",u_admin_codechef_pw,199,2716,0
+NUMGAME,"['easy-medium', 'game', 'number-theory', 'syco_adm']",syco_adm,13813,29386,0
+RRTREGAM,"['easy-medium', 'game', 'grundy', 'numbers', 'theory', 'npl_nitw']",npl_nitw,65,388,0
+PALINGAM,"['ad-hoc', 'aug17', 'easy', 'game', 'admin2']",admin2,14537,22456,0
+GAMSTICK,"['cook85', 'game', 'medium', 'melnik']",melnik,112,1535,0
+GAMENUMB,"['easy', 'game', 'ltime57', 'sorting', 'kingofnumbers']",kingofnumbers,3314,6154,0
+EXPGAME,"['easy-medium', 'game-theory', 'impartial-game', 'ltime05', 'sprague-grundy', 'zero-sum-game', 'vineet_adm']",vineet_adm,400,1369,0
+GAMEAAM,"['cook42', 'easy', 'game-theory', 'sprague-grundy', 'satej_adm']",satej_adm,335,2213,0
+DIVGAME,"['cook44', 'easy-medium', 'game-theory', 'kostya_by']",kostya_by,517,2785,0
+SEAGM,"['dynamic-programming', 'game-theory', 'may14', 'medium', 'sereja_adm']",sereja_adm,313,1364,0
+IITK1P06,"['game-theory', 'medium', 'wpc1', 'wpc1401', 'admin2']",admin2,101,436,0
+ANKGAME,"['combinatorics', 'cook59', 'counting', 'easy-medium', 'game-theory', 'code_master01']",code_master01,242,1147,0
+HAMILG,"['game-theory', 'graphs', 'hard', 'july15', 'matching', 'xellos0']",xellos0,696,1557,0
+MAXDIFFW,"['challenge', 'game-theory', 'july15', 'mugurelionut']",mugurelionut,2528,5793,0
+PUPPYGM,"['game-theory', 'ltime26', 'pavel1996']",pavel1996,2662,5972,0
+AMSGAME1,"['cakewalk', 'cook34', 'gcd', 'satej_adm']",satej_adm,6045,13023,0
+COPRIME3,"['easy-medium', 'gcd', 'iep', 'ltime13', 'mobius_function', 'sieve', 'sergey_adm']",sergey_adm,1980,4634,0
+GCDQ,"['easy', 'gcd', 'jan15', 'precomputing', 'admin2']",admin2,20181,32490,0
+GOC203,"['gcd', 'giriraj']",giriraj,188,706,0
+DEVUGRAP,"['cakewalk', 'gcd', 'ltime24', 'amitpandeykgp']",amitpandeykgp,6591,14252,0
+EGRCAKE,"['gcd', 'nov15', 'simple', 'egor_bobyk']",egor_bobyk,6722,19848,0
+SEAARASU,"['cook64', 'easy', 'gcd', 'mathematics', 'number-theory', 'sereja_adm']",sereja_adm,1363,4301,0
+GCDMAX1,"['binary-search', 'easy-medium', 'gcd', 'ipc151a', 'ipcquestion', 'skullcrackers']",skullcrackers,517,1756,0
+GCDTREE,"['centroid-decomp', 'data-structure', 'gcd', 'ipc151a', 'skullcrackers']",skullcrackers,75,335,0
+ANDOOR,"['geometry', 'jan13', 'medium', 'precision', 'vitalij_adm']",vitalij_adm,263,4036,0
+CIRKILL,"['easy', 'geometry', 'july13', 'maths', 'kaush_adm']",kaush_adm,1291,9117,0
+NPIN,"['geometry', 'hard', 'july13', 'line-clipping', 'line-sweep', 'vinay_adm']",vinay_adm,43,664,0
+RIGHTRI,"['cook37', 'easy', 'geometry', 'imran_adm']",imran_adm,7538,14296,0
+TWOROADS,"['discretization', 'geometry', 'hard', 'sept13', 'tuan_adm']",tuan_adm,90,1379,0
+HELPLIRA,"['cakewalk', 'geometry', 'oct13', 'bruno_adm']",bruno_adm,5086,15672,0
+MACGUN,"['aug12', 'graph', 'matching', 'medium', 'anhdq_adm']",anhdq_adm,168,2750,0
+BLOCKING,"['aug12', 'graph', 'matching', 'jingbo_adm']",jingbo_adm,310,1811,0
+CHEFPASS,"['cook25', 'euler-tour', 'graph', 'shilp_adm']",shilp_adm,79,200,0
+UNFRIEND,"['colouring', 'cook25', 'gauss-elim', 'graph', 'shilp_adm']",shilp_adm,44,112,0
+TREEFUN,"['cook27', 'graph', 'lca', 'gennady_adm']",gennady_adm,68,409,0
+TOURMAP,"['graph', 'hash-map', 'nov12', 'simple', 'kaush_adm']",kaush_adm,1676,8184,0
+UNPAIR,"['graph-theory', 'ltime22', 'medium-hard', 'mst', 'pnkjjindal']",pnkjjindal,69,229,0
+CLSHDN,"['cole2016', 'graph-theory', 'hard', 'query', 'shortest-path', 'nib_ir']",nib_ir,10,63,0
+KETYES,"['chandubaba', 'graph', 'graph-theory', 'keteki', 'simple', 'chandubaba']",chandubaba,83,170,0
+INLO23,"['bfs', 'graph-theory', 'inlo2016', 'medium-hard', 'ravit0001']",ravit0001,123,253,0
+MCO16104,"['bfs', 'dfs', 'easy', 'graph-theory', 'zscoder']",zscoder,51,163,0
+CLIQUED,"['april17', 'easy', 'graph-theory', 'errichto']",errichto,5943,22591,0
+SNGRAPH,"['dsu', 'graph-theory', 'medium', 'snckpb17', 'admin2']",admin2,690,5381,0
+SNSOCIAL,"['bfs', 'easy-medium', 'graph-theory', 'snckpb17', 'admin2']",admin2,2915,16604,0
+FARGRAPH,"['cook90', 'graph-theory', 'medium-hard', 'admin3']",admin3,18,89,0
+CTREE,"['cook91', 'data-structure', 'dfs', 'graph-theory', 'hard', 'tree', 'mgch']",mgch,12,88,0
+FLY,"['functions', 'graphs', 'june12', 'medium', 'nam_adm']",nam_adm,124,1341,0
+PUSHFLOW,"['aug14', 'graphs', 'hard', 'heavy-light', 'tree', 'kostya_by']",kostya_by,117,949,0
+HISTJUNK,"['central-nodes', 'eccentricity', 'graphs', 'snck151a', 'sergey_adm']",sergey_adm,106,572,0
+DINING,"['graphs', 'min-cost-flow', 'snck151a', 'sergey_adm']",sergey_adm,63,673,0
+CARDLINE,"['cook61', 'dynamic-programming', 'graphs', 'greedy', 'medium-hard', 'imran_adm']",imran_adm,59,788,0
+CHEFGIRL,"['dec15', 'directed', 'dynamic-programming', 'graphs', 'medium', 'berezin']",berezin,1350,1813,0
+CAKEDOOM,"['greedy', 'june12', 'simple', 'kaush_adm']",kaush_adm,1190,12184,0
+NOCODING,"['cook25', 'greedy', 'shilp_adm']",shilp_adm,3957,7173,0
+MANYCHEF,"['cook30', 'greedy', 'simple', 'hiroto_adm']",hiroto_adm,2867,8643,0
+DEFACING,"['cook30', 'easy', 'greedy', 'hiroto_adm']",hiroto_adm,264,2221,0
+AVDWAST,"['cook30', 'greedy', 'medium-hard', 'hiroto_adm']",hiroto_adm,31,432,0
+HOB2,"['cook31', 'easy', 'greedy', 'anton_adm']",anton_adm,203,733,0
+MAXDIFF,"['april13', 'cakewalk', 'greedy', 'sorting', 'vamsi_adm']",vamsi_adm,10210,35826,0
+LEMUSIC,"['april13', 'easy', 'greedy', 'sorting', 'witaliy_adm']",witaliy_adm,2510,11462,0
+COOLNUM,"['hard', 'june12', 'prime-factor', 'istva_adm']",istva_adm,133,917,0
+MATCH,"['hard', 'june12', 'matching', 'probability', 'jingbo_adm']",jingbo_adm,115,421,0
+DGCD,"['hard', 'heavy-light', 'july12', 'number-theory', 'nikhil_adm']",nikhil_adm,324,2217,0
+EST,"['hard', 'hashing', 'july12', 'strings', 'gennady_adm']",gennady_adm,63,412,0
+GTHRONES,"['aug12', 'flow', 'hard', 'matching', 'nikhil_adm']",nikhil_adm,78,721,0
+MAXCIR,"['hard', 'oct12', 'chen_adm']",chen_adm,55,1186,0
+TICKETS,"['hard', 'may12', 'david_adm']",david_adm,76,912,0
+TRSUBTR,"['cook40', 'hashing', 'kmp', 'medium', 'vineet_adm']",vineet_adm,242,1205,0
+DECORATE,"['burnside', 'dec13', 'hard', 'hashing', 'sergey_adm']",sergey_adm,173,1273,0
+SSTORY,"['binary-search', 'hashing', 'march14', 'medium', 'suffix-array', 'suffix-auto', 'bruno_adm']",bruno_adm,1243,11047,0
+SEAPERM2,"['ad-hoc', 'hashing', 'medium', 'nov14', 'sereja_adm']",sereja_adm,1531,3693,0
+ACM14KP3,"['acmkgp14', 'hashing', 'medium', 'segment-tree', 'suffix-array', 'admin']",admin,68,567,0
+AMR14C,"['amr14ros', 'easy', 'hashing', 'murdocc007']",murdocc007,504,2130,0
+GOOGOL02,"['ad-hoc', 'dynamic-programming', 'hashing', 'two-pointers', 'surajjumpy']",surajjumpy,10,67,0
+WMIS,"['backtracking', 'hashing', 'memoization', 'snck15fl', 'tree', 'sergey_adm']",sergey_adm,42,119,0
+QUERY,"['feb13', 'hard', 'heavy-light', 'persistence', 'sergey_adm']",sergey_adm,210,1554,0
+QTREE,"['hard', 'heavy-light', 'may13', 'segment-tree', 'simple-math', 'tuan_adm']",tuan_adm,137,719,0
+QTREE6,"['dec13', 'hard', 'heavy-light', 'link-cut-tree', 'xiaodao']",xiaodao,286,1648,0
+IDOLS,"['cook47', 'hard', 'heavy-light', 'segment-tree', 'kostya_by']",kostya_by,104,727,0
+FIBTREE,"['hard', 'heavy-light', 'math', 'persistence', 'segment-tree', 'sept14', 'dzy493941464']",dzy493941464,150,1208,0
+CHEFTREE,"['cook65', 'data-structure', 'hard', 'heavy-light', 'segment-tree', 'mgch']",mgch,46,289,0
+ICLFIN04,"['dynamic-programming', 'icl2015', 'medium-hard', 'f2012086']",f2012086,1,23,0
+ICLFIN06,"['dynamic-programming', 'graph', 'hard', 'icl2015', 'f2012086']",f2012086,1,1,0
+ICLFIN02,"['cakewalk', 'icl2015', 'f2012086']",f2012086,71,108,0
+ICLFIN05,"['dynamic-programming', 'icl2015', 'medium-hard', 'f2012086']",f2012086,17,67,0
+ICLFIN03,"['dynamic-programming', 'icl2015', 'maths', 'f2012086']",f2012086,54,74,0
+ICLFIN01,"['easy-medium', 'icl2015', 'f2012086']",f2012086,14,75,0
+ACMICL2,"['binary', 'exponentiation', 'icl2015', 'math', 'matrices', 'medium', 'f2012086']",f2012086,22,136,0
+ACMICL5,"['dynamic-programming', 'hard', 'icl2015', 'f2012086']",f2012086,5,60,0
+ACMICL4,"['icl2015', 'lcs', 'lis', 'medium-hard', 'f2012086']",f2012086,14,482,0
+ACMICL3,"['easy', 'icl2015', 'sorting', 'f2012086']",f2012086,390,698,0
+DFSGRID,"['ad-hoc', 'cook37', 'implementation', 'medium-hard', 'imran_adm']",imran_adm,27,361,0
+MIKE1,"['cakewalk', 'implementation', 'ltime07', 'kostya_by']",kostya_by,1968,2295,0
+LFEB14B,"['cakewalk', 'implementation', 'ltime09', 'maths', 'sereja_adm']",sereja_adm,1395,2460,0
+SEARRAYS,"['dynamic-programming', 'easy', 'implementation', 'ltime09', 'sereja_adm']",sereja_adm,640,967,0
+SNAPE,"['cakewalk', 'cook45', 'geometry', 'implementation', 'vinay_adm']",vinay_adm,13507,22370,0
+LOGO,"['cook45', 'geometry', 'implementation', 'medium-hard', 'vinay_adm']",vinay_adm,21,48,0
+CHEFBM,"['easy', 'implementation', 'may14', 'berezin']",berezin,1902,17838,0
+LCH15CD,"['dynamic-programming', 'easy-medium', 'implementation', 'ltime20', 'pavel1996']",pavel1996,2013,2779,0
+LCH15JEF,"['bignum', 'easy', 'implementation', 'ltime20', 'maths', 'pavel1996']",pavel1996,1804,3059,0
+DELSUM,"['cakewalk', 'editorials', 'keteki', 'ktbc2015', 'maths', 'simple-maths.', 'chandubaba']",chandubaba,343,448,0
+PATHSG,"['chandubaba', 'keteki', 'medium', 'chandubaba']",chandubaba,26,48,0
+VOWELDP,"['chandubaba', 'dynamic-programming', 'easy', 'keteki', 'simple', 'chandubaba']",chandubaba,58,198,0
+SUMMATH,"['chandubaba', 'easy', 'keteki', 'maths', 'chandubaba']",chandubaba,283,746,0
+KETSWAP,"['cakewalk', 'keteki', 'kqpm2016', 'chandubaba']",chandubaba,55,111,0
+KETFAST,"['keteki', 'kqpm2016', 'sorting', 'chandubaba']",chandubaba,98,254,0
+QM6P5B,"['bubblesort', 'keteki', 'sorting', 'chandubaba']",chandubaba,6,13,0
+QM6P5A,"['bruteforce', 'keteki', 'maths', 'chandubaba']",chandubaba,28,72,0
+QM8B,"['keteki', 'chandubaba']",chandubaba,53,73,0
+PTOSS,"['cook26', 'kmp', 'medium-hard', 'nikhil_adm']",nikhil_adm,114,428,0
+KAN13C,"['kan13acm', 'kmp', 'medium', 'jingbo_adm']",jingbo_adm,385,1432,0
+TASHIFT,"['kmp', 'ltime14', 'medium', 'strings', 'tuan_adm']",tuan_adm,4437,9103,0
+PATTMATC,"['kmp', 'ltime28', 'medium-hard', 'pattern', 'string', 'sergey_adm']",sergey_adm,139,735,0
+AUSAG,"['aust2016', 'kmp', 'string', 'shakilaust']",shakilaust,112,818,0
+CDVA1606,"['cdva16', 'kmp', 'stl', 'string', 'z-algorithm', 'adi28galaxyak']",adi28galaxyak,327,747,0
+RUNNING,"['kmp', 'locapr16', 'rabin-karp', 'z-algorithm', 'anuraganand']",anuraganand,574,1092,0
+GIFTCHEF,"['dynamic-programming', 'easy', 'kmp', 'nov16', 'omelyanenko']",omelyanenko,3064,7928,0
+BORDER,"['binary-lifting', 'kmp', 'ltime57', 'medium', 'tree', 'kingofnumbers']",kingofnumbers,842,1571,0
+SUBTREE,"['lca', 'march13', 'medium', 'tree', 'tuan_adm']",tuan_adm,148,951,0
+TALCA,"['lca', 'ltime14', 'medium-hard', 'tree', 'tuan_adm']",tuan_adm,1395,3008,0
+DRAGONST,"['graph', 'lca', 'ltime15', 'medium-hard', 'mst', 'tree', 'kostya_by']",kostya_by,129,409,0
+TRIPS,"['lca', 'medium-hard', 'oct14', 'sergey_adm']",sergey_adm,224,2205,0
+BTREE,"['hard', 'lca', 'oct14', 'wjmzbmr']",wjmzbmr,71,658,0
+RBTREE,"['ad-hoc', 'easy', 'graph', 'lca', 'nov14', 'ma5termind']",ma5termind,4820,9707,0
+TREEP,"['bit', 'decomposition', 'fenwick', 'hashing', 'lca', 'medium-hard', 'nov15', 'tehnar']",tehnar,1197,2259,0
+CHN12,"['acm15chn', 'lca', 'tree', 'admin2']",admin2,5,225,0
+PRPALIN,"['conditions', 'easy', 'looping', 'admin']",admin,9696,33565,0
+ICL1701,"['icl2017', 'likecs', 'looping', 'likecs']",likecs,613,1475,0
+MATPAN,"['cakewalk', 'looping', 'ltime51', 'alexvaleanu']",alexvaleanu,6159,10892,0
+ONCHESS,"['cook88', 'easy', 'kingofnumbers', 'likecs', 'looping', 'kingofnumbers']",kingofnumbers,953,2253,0
+FBMT,"['cakewalk', 'chemthan', 'cook89', 'likecs', 'looping', 'chemthan']",chemthan,3761,14265,0
+KGP16D,"['array', 'constructive', 'icpc16', 'kgp16', 'looping', 'admin3']",admin3,58,295,0
+KGP16K,"['acm-icpc', 'acm16', 'kgp16', 'kmp', 'logic', 'looping', 'admin3']",admin3,44,229,0
+WEAKMID,"['array', 'easy-med', 'kingofnumbers', 'looping', 'simulation', 'stack', 'kingofnumbers']",kingofnumbers,387,1092,0
+SEAGRP,"['jan14', 'matching', 'medium', 'sereja_adm']",sereja_adm,1439,10920,0
+COPRIME,"['cdcrft14', 'graph', 'hard', 'matching', 'darkshadows']",darkshadows,12,56,0
+AMCAM,"['acm15amr', 'binary-search', 'matching', 'amitpandeykgp']",amitpandeykgp,111,383,0
+QPOLYSUM,"['dec12', 'hard', 'math', 'anton_adm']",anton_adm,46,230,0
+CIELKARA,"['cook30', 'math', 'medium-hard', 'hiroto_adm']",hiroto_adm,28,134,0
+TKCONVEX,"['june13', 'math', 'medium-hard', 'jingbo_adm']",jingbo_adm,463,2796,0
+LMA1,"['easy', 'ltime06', 'math', 'sergey_adm']",sergey_adm,95,498,0
+TANDC,"['easy-medium', 'inverse-element', 'ltime11', 'math', 'piyushkumar']",piyushkumar,71,229,0
+FLOORI4,"['ad-hoc', 'easy', 'math', 'sept14', 'devuy11']",devuy11,1281,14578,0
+RAINBOWB,"['combinations', 'math', 'sept14', 'simple', 'berezin']",berezin,3464,14183,0
+SUBLCM,"['cook50', 'dynamic-programming', 'lcm', 'math', 'medium', 'darkshadows']",darkshadows,1254,7062,0
+STFM,"['easy', 'feb15', 'math', 'antoniuk1']",antoniuk1,34796,47087,0
+LEBINARY,"['bignum', 'cook25', 'maths', 'shilp_adm']",shilp_adm,96,524,0
+CKISSHUG,"['exponentiation', 'maths', 'matrix-expo', 'sep12', 'kaush_adm']",kaush_adm,3329,14846,0
+CROWD,"['maths', 'matrix-expo', 'sep12', 'vamsi_adm']",vamsi_adm,1342,8740,0
+CHEFWD,"['fibonacci', 'maths', 'matrix-expo', 'sep12', 'div_adm']",div_adm,672,3988,0
+LUCKY9,"['binomial', 'maths', 'medium', 'nov12', 'witaliy_adm']",witaliy_adm,339,1103,0
+CHANGE,"['advanced-math', 'hard', 'march13', 'maths', 'david_adm']",david_adm,44,273,0
+CYLINDER,"['april13', 'maths', 'medium', 'anton_adm']",anton_adm,492,5003,0
+TREE,"['easy', 'kirchhoff', 'maths', 'may13', 'jingbo_adm']",jingbo_adm,536,2057,0
+NEWSCH,"['matrix-expo', 'oct12', 'simple', 'vitalij_adm']",vitalij_adm,2229,7194,0
+CBARS,"['matrix-expo', 'nov12', 'simple', 'vitalij_adm']",vitalij_adm,394,1079,0
+LEPAPER,"['cook28', 'dynamic-programming', 'hard', 'matrix-expo', 'witaliy_adm']",witaliy_adm,19,54,0
+TAPALIN,"['cook32', 'matrix-expo', 'modulo', 'simple', 'simple-math', 'tuan_adm']",tuan_adm,1244,3948,0
+KAN13D,"['kan13acm', 'matrix-expo', 'medium', 'jingbo_adm']",jingbo_adm,69,486,0
+IITK1P09,"['dynamic-programming', 'iitk', 'matrix-expo', 'wpc', 'wpc1', 'wpc1401', 'admin2']",admin2,24,88,0
+GNUM,"['hard', 'july14', 'maths', 'maxflow', 'darkshadows']",darkshadows,472,3778,0
+IITK1P04,"['iitk', 'iitkpc04', 'maxflow', 'wpc', 'wpc1', 'wpc1401', 'admin2']",admin2,109,306,0
+RIN,"['dec14', 'graph', 'hard', 'maxflow', 'chen_adm']",chen_adm,447,1003,0
+CHEFBOOK,"['hard', 'june15', 'lp', 'maxflow', 'shiplu_adm']",shiplu_adm,138,559,0
+RECRECOV,"['easy-medium', 'maxflow', 'maximum-flow', 'nov15', 'cenadar']",cenadar,605,2174,0
+TABLECOV,"['dilworth', 'dynamic-programming', 'ltime32', 'maxflow', 'partial-order', 'kostya_by']",kostya_by,43,119,0
+CALLSCHE,"['feb16', 'graph', 'maxflow', 'medium', 'minimum-cut', 'cenadar']",cenadar,817,2362,0
+FLOORDIS,"['march16', 'maxflow', 'medium', 'mincut-maxflow', 'minimum-cut', 'cenadar']",cenadar,249,630,0
+MAXPER,"['algophobic', 'alph2016', 'maxflow', 'medium-hard', 'daga_07']",daga_07,1,13,0
+HULL,"['june12', 'medium', 'polygons', 'vectors', 'jingbo_adm']",jingbo_adm,85,797,0
+GRAYSC,"['july12', 'medium', 'pigeonhole', 'search', 'jingbo_adm']",jingbo_adm,1078,6326,0
+LEBOBBLE,"['july12', 'medium', 'probability', 'segment-tree', 'witaliy_adm']",witaliy_adm,392,1595,0
+CIELNUM3,"['cook24', 'medium', 'hiroto_adm']",hiroto_adm,28,164,0
+BMASTER,"['medium', 'oct12', 'roman_adm']",roman_adm,384,3691,0
+TABISHOP,"['ad-hoc', 'cook32', 'line-sweep', 'medium-hard', 'order-statistic', 'tuan_adm']",tuan_adm,34,283,0
+PERMUTE,"['ad-hoc', 'june13', 'medium-hard', 'imran_adm']",imran_adm,734,2420,0
+LYRC,"['aho-corasick', 'aug13', 'dynamic-programming', 'medium-hard', 'string', 'kaush_adm']",kaush_adm,554,5650,0
+ZENCALC,"['ad-hoc', 'march13', 'medium', 'modulo', 'kaush_adm']",kaush_adm,86,1734,0
+INVBINCF,"['april13', 'factorial', 'hard', 'modulo', 'anton_adm']",anton_adm,40,431,0
+CHFQUEUE,"['arithmetic', 'cakewalk', 'ltime05', 'modulo', 'multiplication', 'queue', 'stack', 'vineet_adm']",vineet_adm,593,1606,0
+GOC201,"['mathematics', 'modulo', 'giriraj']",giriraj,49,356,0
+GOC204,"['modulo', 'progression', 'giriraj']",giriraj,78,224,0
+GOOGOL01,"['easy-medium', 'modulo', 'petr-visits-ism', 'surajjumpy']",surajjumpy,33,484,0
+CHN15A,"['acmchn15', 'cakewalk', 'modulo', 'arjunarul']",arjunarul,6446,12283,0
+QNUMBER,"['factors', 'number-theory', 'sep12', 'kam_adm']",kam_adm,763,7014,0
+JUNONGF,"['exponentiation', 'may13', 'medium', 'number-theory', 'simple-math', 'mischievous_me']",mischievous_me,686,6751,0
+COOLGUYS,"['easy', 'number-theory', 'sept13', 'roman_adm']",roman_adm,2404,11145,0
+FN,"['maths', 'medium-hard', 'number-theory', 'oct13', 'aekd_adm']",aekd_adm,206,3590,0
+MAANDI,"['divisors', 'number-theory', 'oct13', 'simple', 'sereja_adm']",sereja_adm,3849,10930,0
+FUNC,"['binary-search', 'june14', 'medium', 'number-theory', 'vivek_adm']",vivek_adm,1483,21568,0
+TACHEMIS,"['cook36', 'medium', 'palindrome', 'strings', 'tuan_adm']",tuan_adm,119,1074,0
+PALPROB,"['dfs', 'ltime23', 'medium-hard', 'palindrome', 'sergey_adm']",sergey_adm,453,1079,0
+SPALNUM,"['ad-hoc', 'ltime28', 'palindrome', 'simple', 'sergey_adm']",sergey_adm,8743,14882,0
+PP,"['cook63', 'medium-hard', 'palindrome', 'rolling-hash', 'strings', 'trie', 'jingbo_adm']",jingbo_adm,160,1703,0
+PALSTR,"['cook66', 'dynamic-programming', 'medium-hard', 'palindrome', 'strings', 'z-algorithm', 'ma5termind']",ma5termind,23,112,0
+EXPALIN,"['ltime32', 'palindrome', 'string', 'kostya_by']",kostya_by,876,1185,0
+CODE1603,"['coit2016', 'easy-medium', 'medium', 'palindrome', 'palindromes', 'strings', 'devender123_']",devender123_,7,16,0
+NDIFFPAL,"['ad-hoc', 'dynamic-programming', 'easy', 'palindrome', 'snckpa16', 'strings', 'sergey_adm']",sergey_adm,5027,7748,0
+EXOCODE3,"['algorithm', 'hashing', 'important', 'palindrome', 'string', 'vivek96']",vivek96,31,183,0
+PALINREP,"['cakewalk', 'palindrome', 'popc2018', 'akshayvenkat97']",akshayvenkat97,39,67,0
+LEFEED,"['cook33', 'medium', 'probability', 'witaliy_adm']",witaliy_adm,140,436,0
+FTRIP,"['may13', 'probability', 'simple', 'simple-math', 'vamsi_adm']",vamsi_adm,1219,6737,0
+PREDICT,"['easy', 'june13', 'probability', 'mani_adm']",mani_adm,3255,9081,0
+PROB,"['july13', 'probability', 'simple', 'simple-math', 'ivanz_adm']",ivanz_adm,2412,3921,0
+TAAPLUSB,"['cook36', 'easy', 'maths', 'probability', 'tsaplusb', 'tuan_adm']",tuan_adm,978,2286,0
+LEEXAMS,"['brute-force', 'easy', 'probability', 'sept13', 'witaliy_adm']",witaliy_adm,1623,5374,0
+CHGLSTGT,"['dynamic', 'ltime05', 'palindromes', 'programming', 'simple', 'strings', 'vineet_adm']",vineet_adm,759,1699,0
+CHODE,"['cakewalk', 'dec13', 'programming', 'vitalij_adm']",vitalij_adm,2172,8060,0
+GERALD04,"['cook41', 'easy', 'programming', 'gerald']",gerald,2230,6135,0
+ERROR,"['cakewalk', 'jan14', 'programming', 'vivek_adm']",vivek_adm,12807,29992,0
+MTRICK,"['easy-medium', 'jan14', 'programming', 'simple-math', 'nikhil_adm']",nikhil_adm,2603,22095,0
+PLZLYKME,"['jan14', 'programming', 'simple', 'kaush_adm']",kaush_adm,7681,27994,0
+WALK,"['cakewalk', 'march14', 'programming', 'berezin']",berezin,8855,22362,0
+WSC,"['cakewalk', 'construction', 'language', 'ltime18', 'programming', 'sergey_adm']",sergey_adm,390,2571,0
+ACM14KN1,"['acmkan14', 'cakewalk', 'programming', 'admin']",admin,1150,3117,0
+ACM14KG2,"['acmkg14r', 'cakewalk', 'programming', 'admin']",admin,824,1359,0
+NOKIA,"['cook23', 'recursion', 'simple', 'anil_adm']",anil_adm,1618,3391,0
+IITK1P07,"['medium', 'recursion', 'wpc1', 'wpc1401', 'admin2']",admin2,356,3400,0
+ANDTUPLE,"['bit', 'dynamic-programming', 'easy-medium', 'ltime17', 'memoization', 'recursion', 'piyushkumar']",piyushkumar,306,799,0
+TRISQ,"['cakewalk', 'cook55', 'geometry', 'recursion', 'devuy11']",devuy11,10643,16491,0
+STRAB,"['cook56', 'dynamic-programming', 'easy-medium', 'recursion', 'witaliy_adm']",witaliy_adm,201,913,0
+GOOGOL03,"['dfs', 'graph', 'mst', 'recursion', 'surajjumpy']",surajjumpy,37,132,0
+CHEFMATH,"['dynamic-programming', 'easy-medium', 'may16', 'meet-in-middle', 'recursion', 'omelyanenko']",omelyanenko,5312,7974,0
+EURO,"['cook70', 'dynamic-programming', 'medium-hard', 'recursion', 'wwwwodddd']",wwwwodddd,17,177,0
+LFSTACK,"['dynamic-programming', 'ltime39', 'memoization', 'recursion', 'simple-easy', 'sergey_adm']",sergey_adm,3348,6228,0
+CDIT04,"['batman', 'cdit2016', 'medium', 'recursion', 'tree', 'vs', 'akshatjain2209']",akshatjain2209,1,23,0
+MSTICK,"['may13', 'segment-tree', 'simple', 'simple-math', 'mani_adm']",mani_adm,2674,16267,0
+UNIQUE,"['cook43', 'hard', 'lcp', 'segment-tree', 'string', 'suffix-array', 'shiplu_adm']",shiplu_adm,85,329,0
+SEAD,"['binary-search', 'ltime09', 'medium', 'segment-tree', 'sparse-tables', 'sereja_adm']",sereja_adm,382,701,0
+CHEFD,"['bit', 'ltime16', 'medium', 'sets', 'furko_adm']",furko_adm,2167,3578,0
+PAINTBOX,"['ltime22', 'medium', 'segment-tree', 'sets', 'piyushkumar']",piyushkumar,274,916,0
+VCS,"['cakewalk', 'cook57', 'sets', 'kostya_by']",kostya_by,5419,8846,0
+MANYLIST,"['hard', 'ltime28', 'segment-tree', 'sets', 'sergey_adm']",sergey_adm,1328,2158,0
+PLANEDIV,"['dec15', 'euclidean', 'gcd', 'parallel', 'sets', 'simple', 'sorting', 'cenadar']",cenadar,3044,20678,0
+CODE1602,"['cakewalk', 'coit2016', 'easy', 'sets', 'subsets', 'devender123_']",devender123_,13,57,0
+CAPIMOVE,"['data-structure', 'heap', 'jan17', 'sets', 'simple', 'sorting', 'tree', 'cenadar']",cenadar,12681,22645,0
+NOTINCOM,"['basic-prog', 'cakewalk', 'ltime44', 'sets', 'sergey_adm']",sergey_adm,8228,16455,0
+CLOSESTQ,"['divide-and-conquer', 'ltime47', 'medium-hard', 'sets', 'sqrt', 'gainullinildar']",gainullinildar,653,1123,0
+HOMDEL,"['aug12', 'shortest-path', 'vamsi_adm']",vamsi_adm,2737,7303,0
+LECOINS,"['dynamic-programming', 'hard', 'march13', 'shortest-path', 'simple-math', 'witaliy_adm']",witaliy_adm,117,612,0
+COTA,"['bitmasking', 'cook43', 'graph', 'hard', 'shortest-path', 'shiplu_adm']",shiplu_adm,29,78,0
+REVERSE,"['aug14', 'easy', 'graph', 'shortest-path', 'berezin']",berezin,3116,14954,0
+KGP14G,"['dynamic-programming', 'kgp14ros', 'medium-hard', 'shortest-path', 'admin3']",admin3,29,100,0
+AVGSHORT,"['bellman-ford', 'easy-medium', 'graph', 'ltime39', 'shortest-path', 'sergey_adm']",sergey_adm,221,1484,0
+MINWALK,"['dijkstra', 'easy-medium', 'graph', 'shortest-path', 'gvaibhav21']",gvaibhav21,228,845,0
+LEVY,"['april13', 'sieve', 'simple', 'kaush_adm']",kaush_adm,3503,13751,0
+KPRIME,"['july13', 'memoization', 'sieve', 'simple', 'vamsi_adm']",vamsi_adm,3642,16702,0
+PRETNUM,"['easy', 'nov13', 'prime-factor', 'sieve', 'ivanz_adm']",ivanz_adm,1959,12019,0
+CDQU1,"['cdqu2014', 'prime', 'sieve', 'simple', 'animesh_f']",animesh_f,454,646,0
+CBALLS,"['easy', 'jan16', 'primenumbers', 'sieve', 'amitpandeykgp']",amitpandeykgp,8265,17828,0
+AUDH,"['aust2016', 'number-theory', 'sieve', 'shakilaust']",shakilaust,191,896,0
+YCCE02,"['prime', 'sieve', 'ycce02ycce2016', 'shrikantbadri']",shrikantbadri,118,155,0
+RESQ,"['factors', 'june12', 'prime', 'simple', 'nam_adm']",nam_adm,8622,21141,0
+DREAM,"['july12', 'simple', 'sorting', 'kam_adm']",kam_adm,997,3682,0
+CIELTOMY,"['backtracking', 'cook24', 'simple', 'hiroto_adm']",hiroto_adm,660,2613,0
+RRECIPE,"['cook26', 'simple', 'simple-math', 'nikhil_adm']",nikhil_adm,5543,15718,0
+MAXCOMP,"['oct12', 'simple', 'khad_adm']",khad_adm,2383,7187,0
+EQUALIZ,"['cook27', 'simple-math', 'gennady_adm']",gennady_adm,337,880,0
+LEDIV,"['cook28', 'simple', 'simple-math', 'witaliy_adm']",witaliy_adm,2686,14471,0
+ARIGEOM,"['dec12', 'medium', 'simple-math', 'ankul_adm']",ankul_adm,261,3401,0
+SEREJA,"['dec12', 'medium', 'simple-math', 'roman_adm']",roman_adm,399,2627,0
+BIT,"['cakewalk', 'cdcrft14', 'simulation', 'darkshadows']",darkshadows,1116,1606,0
+ATOM,"['cdcrft14', 'simple', 'simulation', 'darkshadows']",darkshadows,594,3076,0
+DIVGOLD,"['cakewalk', 'cook56', 'simulation', 'sorting', 'witaliy_adm']",witaliy_adm,952,7211,0
+VISITALL,"['cook56', 'easy', 'simulation', 'witaliy_adm']",witaliy_adm,48,158,0
+CBARG,"['cakewalk', 'june15', 'simulation', 'vitalij_adm']",vitalij_adm,11407,19033,0
+AMR14I,"['amr14ros', 'easy', 'simulation', 'murdocc007']",murdocc007,814,3654,0
+SEALINE,"['cook64', 'easy', 'implementation', 'simulation', 'sereja_adm']",sereja_adm,677,1280,0
+AMR15A,"['acmamr15', 'easy', 'simple', 'simulation', 'suh_ash2008']",suh_ash2008,11882,19804,0
+MULDIG,"['implementation', 'july17', 'medium-hard', 'simulation', 'errichto']",errichto,346,757,0
+NICENESS,"['greedy', 'snck15fl', 'admin2']",admin2,156,504,0
+GUARDS,"['annealing', 'backtracking', 'computation', 'pruning', 'randomized', 'simulated', 'snck15fl', 'sergey_adm']",sergey_adm,21,67,0
+TENNIS,"['dynamic-programming', 'probability', 'snck15fl', 'istva_adm']",istva_adm,84,204,0
+BUGATACK,"['combinatorics', 'dynamic-programming', 'floyd-warshall', 'graph', 'snck15fl', 'utkarsh_lath']",utkarsh_lath,34,87,0
+SHUFFLE2,"['crt', 'permutation', 'snck15fl', 'splay-trees', 'sergey_adm']",sergey_adm,29,192,0
+RAMSINSP,"['combinatorics', 'cycle', 'eulerian', 'snck15fl', 'kevinsogo']",kevinsogo,16,63,0
+TIMETRAV,"['dynamic-programming', 'greedy', 'snck15fl', 'treeroot', 'admin2']",admin2,63,204,0
+FUZZYADD,"['amortization', 'distribution', 'probability', 'snck15fl', 'kevinsogo']",kevinsogo,30,95,0
+HORSES,"['sep12', 'sorting', 'vamsi_adm']",vamsi_adm,20934,58576,0
+CVOTE,"['jan13', 'map', 'simple', 'sorting', 'kaush_adm']",kaush_adm,3100,8391,0
+AMMEAT,"['ad-hoc', 'cakewalk', 'cook33', 'sorting', 'witaliy_adm']",witaliy_adm,3684,12178,0
+TACHSTCK,"['cakewalk', 'cook36', 'greedy', 'sorting', 'tuan_adm']",tuan_adm,5380,12720,0
+SEASOR,"['ad-hoc', 'challenge', 'july13', 'sorting', 'sereja_adm']",sereja_adm,10567,16339,0
+RRJAM,"['cook53', 'hard', 'sqrt-decomp', 'roman_adm']",roman_adm,131,668,0
+QCHEF,"['march15', 'medium', 'sqrt-decomp', 'gomelfk']",gomelfk,4041,7030,0
+GOC205,"['sqrt-decomp', 'giriraj']",giriraj,65,106,0
+CBAL,"['may15', 'medium-hard', 'sqrt-decomp', 'ma5termind']",ma5termind,2305,3897,0
+CHEFNKCH,"['range', 'range-trees', 'snck15fl', 'sqrt-decomp', 'kevinsogo']",kevinsogo,3,26,0
+DISTNUM,"['2d', 'aug15', 'fenwick-tree', 'range-tree', 'segment-tree', 'sqrt-decomp', 'super-hard', 'mgch']",mgch,3401,4771,0
+INVERT,"['binary', 'binary-search', 'data-structure', 'hard', 'ltime27', 'sqrt-decomp', 'ma5termind']",ma5termind,162,278,0
+KOL15C,"['acmkol15', 'medium', 'offline', 'range-sum', 'sqrt-decomp', 'devuy11']",devuy11,276,1710,0
+BNGAME,"['easy', 'ltime12', 'stl', 'two-pointers', 'sergey_adm']",sergey_adm,184,668,0
+GOOGOL05,"['lexicographical', 'sorting', 'stl', 'string', 'surajjumpy']",surajjumpy,658,1018,0
+CHEFTMA,"['greedy', 'jan16', 'simple', 'stl', 'berezin']",berezin,4387,9423,0
+TRACTK2,"['graph', 'stl', 'NE']",NE,0,0,0
+KJCP01,"['bst', 'kcpr2016', 'map', 'pair', 'sorting', 'stl', 'vector', 'vedipen']",vedipen,125,310,0
+KJCP3,"['iterations', 'kcpr2016', 'map', 'sets', 'stl', 'vedipen']",vedipen,142,278,0
+KJCP02,"['easy', 'hashing', 'kcpr2016', 'maps', 'stl', 'vedipen']",vedipen,132,796,0
+IPCTRAIN,"['easy', 'greedy', 'heap', 'july17', 'stl', 'admin2']",admin2,10961,22385,0
+GPTRIPLE,"['dynamic-programming', 'easy-medium', 'popc2018', 'stl', 'akshayvenkat97']",akshayvenkat97,24,101,0
+MOU1H,"['july13', 'lcp', 'medium', 'string', 'suffix-array', 'vitalij_adm']",vitalij_adm,914,4493,0
+SUBSTR,"['acmkgp13', 'ad-hoc', 'easy', 'string', 'sergey_adm']",sergey_adm,589,2121,0
+PALIN3,"['cook44', 'manacher', 'medium', 'string', 'kostya_by']",kostya_by,93,653,0
+RIT03,"['math', 'medium', 'rivalryofcode', 'string', 'dvlpr_expert']",dvlpr_expert,38,260,0
+CHEFSTLT,"['cakewalk', 'ltime25', 'string', 'furko_adm']",furko_adm,9226,12443,0
+AMSTRING,"['cook33', 'easy', 'sliding-window', 'strings', 'witaliy_adm']",witaliy_adm,290,1271,0
+TMP01,"['hard', 'sept13', 'strings', 'suffix-trees', 'gerald']",gerald,127,1355,0
+TAEDITOR,"['bit', 'ltime14', 'medium-hard', 'segment-tree', 'strings', 'tuan_adm']",tuan_adm,1301,3025,0
+CLCO06,"['cakewalk', 'clco2015', 'easy', 'externalcontest', 'sorting', 'strings', 'rjohari23']",rjohari23,212,634,0
+CLCO08,"['clco2015', 'combinations', 'dynamic-programming', 'externalcontest', 'hard', 'permutations', 'strings', 'rjohari23']",rjohari23,17,34,0
+DIFTRIP,"['dec12', 'hard', 'suffix-array', 'tuan_adm']",tuan_adm,228,1517,0
+STRQUERY,"['april13', 'hard', 'suffix-array', 'treap', 'wjmzbmr']",wjmzbmr,128,1797,0
+GERALD3	,"['balanced-tree', 'cook41', 'lcp', 'medium', 'suffix-array', 'NE']",NE,0,0,0
+TANGLED,"['hard', 'lcp', 'ltime02', 'suffix-array', 'utkarsh_lath']",utkarsh_lath,790,1454,0
+ANUSAR,"['cook46', 'disjoint-set', 'medium-hard', 'segment-tree', 'stack', 'suffix-array', 'suffix-trees', 'anudeep2011']",anudeep2011,195,799,0
+QSTRING,"['medium', 'oct14', 'suffix-array', 'xiaodao']",xiaodao,123,1235,0
+TREES,"['medium', 'sept10', 'tree', 'syco_adm']",syco_adm,126,631,0
+TESTERS,"['feb13', 'hard', 'tree', 'roman_adm']",roman_adm,127,1370,0
+TRANSFIG,"['cook35', 'medium', 'tree', 'prad_adm']",prad_adm,53,197,0
+KGP13A,"['floyd-warshall', 'kgp13acm', 'tree', 'jingbo_adm']",jingbo_adm,90,155,0
+BINTREE,"['april14', 'easy', 'tree', 'darkshadows']",darkshadows,8396,15646,0
+KGP13G,"['dynamic-programming', 'easy-medium', 'kgp13acm', 'trie', 'jingbo_adm']",jingbo_adm,74,281,0
+SUBBXOR,"['cdcrft14', 'medium', 'trie', 'darkshadows']",darkshadows,290,781,0
+MINXOR,"['cook44', 'decomposition', 'medium', 'sqrt', 'trie', 'kostya_by']",kostya_by,142,1103,0
+SUBQUERY,"['ltime13', 'medium', 'suffix_automata', 'trie', 'sergey_adm']",sergey_adm,330,1037,0
+BANKPASS,"['easy-medium', 'trie', 'prog_iitmandi']",prog_iitmandi,305,786,0
+MCO16304,"['easy-medium', 'mco1602', 'trie', 'zscoder']",zscoder,81,255,0
+ANUSFR,"['cook51', 'greedy', 'hard', 'segment-tree', 'two-pointers', 'anudeep2011']",anudeep2011,32,200,0
+ACM14KG1,"['acmkg14r', 'easy-medium', 'sorting', 'two-pointers', 'admin']",admin,22,248,0
+SWINDOW,"['cook75', 'medium', 'segment-tree', 'two-pointers', 'darkshadows']",darkshadows,56,267,0
+MIXFLVOR,"['cook79', 'gauss-elim', 'medium-hard', 'two-pointers', 'kingofnumbers']",kingofnumbers,50,165,0
+BRIBETR,"['dynamic-programming', 'ltime45', 'medium', 'two-pointers', 'errichto']",errichto,471,823,0
+MAXSEGM,"['easy', 'ltime49', 'two-pointers', 'grumpy_gordon']",grumpy_gordon,3016,7941,0
+JABO,"['disjoint-set', 'medium', 'nov12', 'union-find', 'vinay_adm']",vinay_adm,414,2617,0
+GALACTIK,"['disjoint-set', 'easy', 'july13', 'mst', 'union-find', 'jay_adm']",jay_adm,1827,10669,0
+DISHOWN,"['disjoint-set', 'easy', 'july14', 'union-find', 'vivek_adm']",vivek_adm,3862,24391,0
+TREECNT2,"['hard', 'march15', 'mobius_function', 'union-find', 'sergey_adm']",sergey_adm,1117,2545,0
+MTRWY,"['easy', 'march15', 'union-find', 'antoniuk1']",antoniuk1,2861,6901,0
+MAGICSTR,"['ipc151a', 'pigeonhole', 'union-find', 'skullcrackers']",skullcrackers,251,851,0
+PARITREE,"['bicolor', 'graph', 'march16', 'medium', 'union-find', 'xor', 'admin2']",admin2,1317,3758,0
+MAZE,"['bfs', 'cook70', 'dfs', 'dual-graph', 'easy-medium', 'union-find', 'wwwwodddd']",wwwwodddd,39,301,0
+TREEDIAM,"['lca', 'ltime39', 'medium', 'tree', 'union-find', 'sergey_adm']",sergey_adm,141,432,0
+IITK1P01,"['dynamic-programming', 'medium', 'wpc1', 'wpc1401', 'admin2']",admin2,87,192,0
+IITK1P02,"['easy', 'iitk', 'wpc1', 'wpc1401', 'admin2']",admin2,940,2026,0
+IITK1P03,"['iitk', 'iitkpc03', 'knapsack', 'meet-in-middle', 'wpc', 'wpc1', 'wpc1401', 'admin2']",admin2,35,130,0
+IITK1P05,"['cakewalk', 'iitk', 'wpc', 'wpc1', 'wpc1401', 'admin2']",admin2,1289,2251,0
+IITK1P10,"['dfs-order', 'iitk', 'tree', 'wpc1', 'wpc1401', 'admin2']",admin2,487,911,0
+IITK1P11,"['cakewalk', 'iitk', 'wpc', 'wpc1', 'wpc1401', 'admin2']",admin2,1028,2528,0
+IITK1P08,"['expectation', 'floating', 'medium', 'probability', 'wpc1', 'wpc1401', 'admin2']",admin2,30,177,0
+TAPAIR,"['dfs-order', 'hard', 'jan14', 'xor', 'tuan_adm']",tuan_adm,245,1027,0
+GOOGOL06,"['hard', 'lazy', 'propagation', 'segment-tree', 'xor', 'surajjumpy']",surajjumpy,32,107,0
+CHEFAXR,"['bit', 'easy', 'ltime25', 'matrix', 'xor', 'furko_adm']",furko_adm,733,2435,0
+LTM40GH,"['lca', 'ltime40', 'medium', 'optimization', 'tree', 'xor', 'mgch']",mgch,217,858,0
+SPECRK,"['bit', 'bitf2016', 'easy', 'manipulation', 'xor', 'kaushambi']",kaushambi,400,813,0
+ZCO15001,"['dynamic-programming', 'zco', 'zcoprac', 'admin3']",admin3,753,2279,0
+ZCO16002,"['dynamic-programming', 'zco', 'zcoprac', 'anukul']",anukul,728,1687,0
+ZCO14003,"['vivek1_007', 'zco', 'zcoprac', 'admin3']",admin3,10314,25445,0
+ZCO14001,"['vivek1_007', 'zco', 'zcoprac', 'admin3']",admin3,5824,14446,0
+ZCO13003,"['vivek1_007', 'zcoprac', 'admin3']",admin3,8748,14435,0
+ZCO13001,"['vivek1_007', 'zcoprac', 'admin3']",admin3,11313,15470,0
+ZCO14002,"['vivek1_007', 'zco', 'zcoprac', 'admin3']",admin3,2296,9203,0
+ZCO14004,"['vivek1_007', 'zco', 'zcoprac', 'admin3']",admin3,1639,3986,0
+ZCO16001,"['zco', 'zcoprac', 'anukul']",anukul,1653,5988,0
+ZCO13002,"['vivek1_007', 'zcoprac', 'admin3']",admin3,854,1888,0
