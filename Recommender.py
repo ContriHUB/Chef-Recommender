@@ -40,6 +40,9 @@ indices = pd.Series(metadata.index, index=metadata["code"])
 
 def getRecommendations(code="", contestCode="", cosine_sim=cosine_sim):
     # Get the index of the problem that matches the problem code
+
+    global metadata, count, count_matrix, indices
+
     if not code:
         return starter_problems
 
