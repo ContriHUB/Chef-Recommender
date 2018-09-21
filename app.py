@@ -39,7 +39,7 @@ def recommenderApi(username):
     recent_problem = set()
 
     for submission in submission_list:
-        recent_problem.add([submission.get("problemCode"), submission.get("contestCode")])
+        recent_problem.add((submission.get("problemCode"), submission.get("contestCode")))
 
     if not recent_problem:
         recent_problem.add("")
@@ -59,7 +59,7 @@ def recommenderApi(username):
     recommended_problem = set()
 
     for problem in recent_problem:
-        res = getRecommendations(code=problem[0], problemCode=problem[1])
+        res = getRecommendations(code=problem[0], contestCode=problem[1])
         for key, value in res.items():
             recommended_problem.add(value)
 
