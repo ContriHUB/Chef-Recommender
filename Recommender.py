@@ -37,11 +37,10 @@ cosine_sim = cosine_similarity(count_matrix, count_matrix)
 metadata = metadata.reset_index()
 indices = pd.Series(metadata.index, index=metadata["code"])
 
-
-def getRecommendations(code="", contestCode="", cosine_sim=cosine_sim):
+def getRecommendations(code="", contestCode=""):
     # Get the index of the problem that matches the problem code
 
-    global metadata, count, count_matrix, indices
+    global metadata, count, count_matrix, cosine_sim, indices
 
     if not code:
         return starter_problems
@@ -84,6 +83,7 @@ def getRecommendations(code="", contestCode="", cosine_sim=cosine_sim):
         cosine_sim = cosine_similarity(count_matrix, count_matrix)
 
         metadata = metadata.reset_index()
+        indices = pd.Series(metadata.index, index=metadata["code"])
 
     # Get the pairwsie similarity scores of all movies with that movie
     sim_scores = list(enumerate(cosine_sim[idx]))
