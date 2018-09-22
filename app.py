@@ -1,19 +1,16 @@
-from flask import abort
-from flask import Flask
-from flask import jsonify
-from flask import make_response
-from flask import request
-
+from flask import abort,request,render_template,Flask,jsonify,make_response,redirect,url_for
 from Recommender import getRecommendations
 from ChefRequest import makeRequest
 
 app = Flask(__name__)
 
-
 @app.route("/")
-def recommenderApp():
-    return "Hello World!"
+def init():
+    return render_template('index.html')
 
+@app.route("/",methods=['POST'])
+def requestResult():
+    return redirect(url_for('recommenderApi',username=request.form['username']))
 
 @app.route("/api/recommend/problem/<string:code>", methods=['GET'])
 def problemRecommenderApi(code):
