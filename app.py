@@ -63,7 +63,9 @@ def recommenderApi(username):
     recommended_problem = recommended_problem.difference(all_problem)
     recommended_problem = list(recommended_problem)
 
-    return jsonify({"recommendedProblems": recommended_problem}), 201
+    result = {"recommendedProblems": recommended_problem}
+    print(type(result))
+    return render_template('recommenduser.html',result=result);
 
 
 @app.errorhandler(404)

@@ -1,26 +1,27 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
+<!doctype html>
+<html>
   <head>
     <meta charset="utf-8">
-    <title>Codechef Recommender</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{url_for('static', filename='recommenduser.css')}}"
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div class="container">
+      <div class="page-header">
         <div class="row">
             <div class="col-md-6"><img class="img-fluid center" src="{{url_for('static', filename='chef.png')}}" alt="Codechef"> </div>
-            <div class="col-md-6 headertext"> Problem Recommender </div>
+            <div class="col-md-6 headertext">  Problems Recommended </div>
         </p>
       </div>
       <br><hr><br>
-      <form method="post">
-          <div class="col-md-3">
-            <input type="text" class="form-control" name="username" placeholder="Enter username">
-          </div>
-          <div class="col-md-3"> <button name="submit" class="btn btn-primary">Submit</button> </div>
-      </form>
+      <div class="list-group">
+        {% for val in result['recommendedProblems'] %}
+          <button type="button" class="list-group-item list-group-item-action">
+          {{val}}
+          </button>
+        {% endfor %}
+      </div>
     </div>
   </body>
 </html>
