@@ -64,8 +64,8 @@ def recommenderApi(username):
     recommended_problem = list(recommended_problem)
 
     result = {"recommendedProblems": recommended_problem}
-    print(type(result))
-    return render_template('recommenduser.html',result=result);
+    return make_response(jsonify(result))
+    # return render_template('recommenduser.html',result=result);
 
 
 @app.errorhandler(404)
